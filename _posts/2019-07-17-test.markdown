@@ -1,0 +1,13 @@
+---
+layout: post
+title: 测试
+date: 2016-07-17 19:32:20 +0300
+description: 仅仅测试用. # Add post description (optional)
+img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Holidays, Hawaii]
+---
+
+![我]({{site.baseurl}}/assets/img/doctormus.jpg)
+
+仅仅用于测试用
