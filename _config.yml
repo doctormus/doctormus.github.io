@@ -11,7 +11,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 董木杉 # add your name
 author-img: doctormus.jpg # add your photo
+<<<<<<< HEAD
 about-author: 好久不见 # add description
+=======
+about-author: 好久不见. # add description
+>>>>>>> 0979c395bc46078c2d2f7b3752e3888e229687a9
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: doctormus # add your Github handle
