@@ -18,6 +18,9 @@ social-github: doctormus # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: dongmus@qq.com# add your Email address
 
+allowsearch: true
+
+
 # Disqus
 discus-identifier: doctormus # add your discus identifier
 
