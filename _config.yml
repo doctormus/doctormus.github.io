@@ -9,9 +9,9 @@ url: "https://doctormus.github.io/" # the base hostname & protocol for your site
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: 董木杉 # add your name
+author: <font color = "#3daae8">董木杉</font> # add your name
 author-img: doctormus.jpg # add your photo
-about-author: 好久不见<br> # add description
+about-author: 好久不见<br> <font size = 2>点击文中标签进行文章分类</font> # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: doctormus # add your Github handle
