@@ -18,21 +18,6 @@ social-github: doctormus # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: dongmus@qq.com# add your Email address
 
-
-comments:
-  discus: false
-  
-  gitalk: true
-  gitalk_clientID: '279656abc0643fe7873d'
-  gitalk_Secret: '51799d5c1b593c2bf048b8183098982911dd9830'
-  gitalk_repo: 'doctormus.github.io'
-  gitalk_owner: 'doctormus'
-  gitalk_admin: 'doctormus'
-  distractionFreeMode: true
-
-# Disqus
-discus-identifier: doctormus # add your discus identifier
-
 # Tracker
 analytics: # Google Analytics
 
