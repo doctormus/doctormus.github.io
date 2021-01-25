@@ -144,6 +144,8 @@ samp {
   /* 1 */
   font-size: 1em;
   /* 2 */
+  font-style: normal;
+  background-color: #000;
   color: #fc3;
 }
 
@@ -806,7 +808,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: normal;
-  color: #ada8a8;
+  color: #000000;
 }
 
 pre {
@@ -950,7 +952,7 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   overflow: hidden;
-  background-color: #333030;
+  background-color: #ffffff;
 }
 
 .about img {
