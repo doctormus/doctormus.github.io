@@ -145,7 +145,6 @@ samp {
   font-size: 1em;
   /* 2 */
   font-style: normal;
-  background-color: rgb(105, 105, 105);
   color: #fc3;
 }
 
@@ -808,6 +807,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: normal;
+  color: rgb(128, 128, 128);
 }
 
 pre {
@@ -826,7 +826,6 @@ pre code {
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
-  color: #fc3;
 }
 
 table {
