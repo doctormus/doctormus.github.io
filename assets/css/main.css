@@ -145,7 +145,7 @@ samp {
   font-size: 1em;
   /* 2 */
   font-style: normal;
-  color: #fc3;
+  color: #19CAAD;
 }
 
 /**
@@ -816,6 +816,7 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
+  color: rgb(128, 128, 128);
 }
 
 pre code {
