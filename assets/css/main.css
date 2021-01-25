@@ -808,7 +808,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: normal;
-  color: #000000;
+  background-color: #000;
 }
 
 pre {
@@ -828,6 +828,7 @@ pre code {
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
+  background-color: #000;
   color: #fc3;
 }
 
