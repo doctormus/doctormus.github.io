@@ -142,10 +142,10 @@ kbd,
 samp {
   font-family: monospace, monospace;
   /* 1 */
-  font-size: 1em;
+  font-size: 2em;
   /* 2 */
   font-style: normal;
-  color: #FA8C35;
+  color: #FF7500;
 }
 
 /**
@@ -807,7 +807,7 @@ blockquote {
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: normal;
-  background-color: #75878A;
+  background-color: #161823;
 }
 
 pre {
