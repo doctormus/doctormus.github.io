@@ -142,7 +142,7 @@ kbd,
 samp {
   font-family: monospace, monospace;
   /* 1 */
-  font-size: 1.5em;
+  font-size: 0.75em;
   /* 2 */
   font-style: normal;
   color: #FF7500;
@@ -803,12 +803,12 @@ img + em {
 }
 
 blockquote {
-  border-left: 5px solid #3D3B4F;
+  border-left: 5px solid #725E82;
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: normal;
   color: white;
-  background-color: #392F41;
+  background-color: #3D3B4F;
 }
 
 pre {
