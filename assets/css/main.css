@@ -145,7 +145,7 @@ samp {
   font-size: 1em;
   /* 2 */
   font-style: normal;
-  color: #177cb0;
+  color: #FA8C35;
 }
 
 /**
@@ -803,11 +803,11 @@ img + em {
 }
 
 blockquote {
-  border-left: 5px solid #000;
+  border-left: 5px solid #3D3B4F;
   padding-left: 1.1rem;
   margin-left: 1rem;
   font-style: normal;
-  color: #758A99;
+  background-color: #75878A;
 }
 
 pre {
@@ -816,7 +816,6 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
   word-break: break-all;
-
 }
 
 pre code {
